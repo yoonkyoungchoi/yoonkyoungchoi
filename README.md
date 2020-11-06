@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🍀여러분📣📣오늘하루도📣📣행복이📣📣가득하길📣📣바래용🍀🍀여러분📣📣오늘하루도📣📣행복이📣📣가득하길📣📣바래용🍀🍀여러분📣📣오늘하루도📣📣행복이📣📣가득하길📣📣바래용🍀🍀여러분📣📣오늘하루도📣📣행복이📣📣가득하길📣📣바래용
+
 <!--
 **yoonkyoungchoi/yoonkyoungchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
