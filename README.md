@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Yoonkyung's github stats](https://github-readme-stats.vercel.app/api?username=yoonkyoungchoi&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonkyoungchoi&layout=compact&card_width=445&custom_title=most%20used%20languages%20&show_icons=true&theme=react)
 <!--### 퐈아팅!!
 ### 🤔 I’m looking for help with ...\
