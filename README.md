@@ -21,4 +21,7 @@
 <a href="https://newchoi7113.tistory.com/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/48753868/115189755-f61cb000-a121-11eb-82b4-60078d777eb1.png?raw=true"></a>&nbsp;&nbsp;
 </a></p>
 <br><p align="center">
-![Yoonkyung's github stats](https://github-readme-stats.vercel.app/api?username=yoonkyoungchoi&show_icons=true&theme=react)
+<br>
+  <br />
+![Yoonkyung's github stats](https://github-readme-stats.vercel.app/api?username=yoonkyoungchoi&show_icons=true&theme=radical) <br /><br />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonkyoungchoi&layout=compact&langs_count=81)
